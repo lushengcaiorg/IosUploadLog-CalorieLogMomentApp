@@ -1,0 +1,4 @@
+2026-11-02 08:45:51.448 xcodebuild[77896:180259] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/5n/5t77mfb93jd7q8v9s6f0dn0m0000gn/T/CalorieLogMomentApp_2026-11-02_08-45-51.447.xcdistributionlogs".
+Exported CalorieLogMomentApp to: /Users/runner/work/CalorieLogMomentApp/CalorieLogMomentApp/CalorieLogMomentApp.ipa
+** EXPORT SUCCEEDED **
+

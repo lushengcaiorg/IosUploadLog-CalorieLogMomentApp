@@ -1,0 +1,31 @@
+Running altool at path '/Applications/Xcode_27.1.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-11-02 08:45:58.396 ERROR: [ContentDelivery.Uploader.7C54C7D380] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘2’. (ID: 76f3795a-8f96-43d4-aedf-a43c8d744af8)
+   NSUnderlyingError : The provided entity includes an attribute with a value that has already been used (-19241) The bundle version must be higher than the previously uploaded version.
+      status : 409
+      detail : The bundle version must be higher than the previously uploaded version.
+      source : 
+         pointer : /data/attributes/cfBundleVersion
+      id : 76f3795a-8f96-43d4-aedf-a43c8d744af8
+      code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+      title : The provided entity includes an attribute with a value that has already been used
+      meta : 
+         previousBundleVersion : 2
+   previousBundleVersion : 2
+   iris-code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+2026-11-02 08:45:58.399 ERROR: [altool.7C54C7D380] Failed to upload package.
+2026-11-02 08:45:58.400 ERROR: [altool.7C54C7D380] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘2’. (ID: 76f3795a-8f96-43d4-aedf-a43c8d744af8)
+   NSUnderlyingError : The provided entity includes an attribute with a value that has already been used (-19241) The bundle version must be higher than the previously uploaded version.
+      status : 409
+      detail : The bundle version must be higher than the previously uploaded version.
+      source : 
+         pointer : /data/attributes/cfBundleVersion
+      id : 76f3795a-8f96-43d4-aedf-a43c8d744af8
+      code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+      title : The provided entity includes an attribute with a value that has already been used
+      meta : 
+         previousBundleVersion : 2
+   previousBundleVersion : 2
+   iris-code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+2026-11-02 08:45:58.401 ERROR: [altool.main] ExitFailure (31)
+Failed to upload archive at 'CalorieLogMomentApp.ipa/CalorieLogMomentApp.ipa'.
