@@ -1,0 +1,1 @@
+/Users/runner/work/CalorieLogMomentApp/CalorieLogMomentApp/CalorieLogMomentApp.xcodeproj: error: Provisioning profile "appstore-com.light.moment.record-20261102075131098" doesn't include the com.apple.developer.healthkit and com.apple.developer.healthkit.access entitlements. (in target 'CalorieLogMomentApp' from project 'CalorieLogMomentApp')

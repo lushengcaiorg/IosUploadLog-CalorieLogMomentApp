@@ -1,0 +1,17 @@
+Command line invocation:
+    /Applications/Xcode_27.1.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/CalorieLogMomentApp/CalorieLogMomentApp/CalorieLogMomentApp.xcworkspace
+
+Information about workspace "CalorieLogMomentApp":
+    Schemes:
+        CalorieLogMomentApp
+        CalorieLogMomentApp_Test
+        Pods-CalorieLogMomentApp
+        Pods-CalorieLogMomentApp_Test
+        Pods-CalorieLogMomentAppTests
+        SubscriptionKit
+        SubscriptionKit-SubscriptionKit
+        SVProgressHUD
+        UMAPM
+        UMCommon
+        UMDevice
+
